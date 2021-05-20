@@ -3,7 +3,7 @@
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **대구대학교 학생**들을 위해 확장앱을 만들었습니다.
 
-- [웨일 확장앱 다운 받기]()
+- [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/opljonfeapfpkmppcijljkadjjnloook)
 - [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%EB%8C%80%EA%B5%AC%EB%8C%80%EB%8B%A4/eepknpddpmbjhbdnebloekmhmipbidmc/related?hl=ko&)
 ----------------------------------
 ## 저작권 표시
