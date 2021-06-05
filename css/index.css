@@ -7,7 +7,7 @@
 	word-break: keep-all;
     display: grid;
 	grid-template-columns: 100px 100px 100px;
-	grid-template-rows: 120px 120px 120px 30px;
+	grid-template-rows: 120px 120px 120px 120px 30px;
 }
 
 .menu-button {
