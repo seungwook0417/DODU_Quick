@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "대구대다",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "대구대학교 학생들이 자주 이용하는 사이트를 모아놓은 확장앱니다.",
     "icons": {
         "16": "./images/logo/DU_logo.png",
